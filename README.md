@@ -1,7 +1,10 @@
 # Pytorch_RL
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
 This project aims to reproduce the results of several RL algorithms. Recently, I will start from DQN. 
 
-If you are looking for awesome_RL resources, you can click [here]()
+If you are looking for awesome_RL resources, you can click [here](https://github.com/NeuronDance/DeepRL/tree/master/A-Guide-Resource-For-DeepRL)
 
 # Requirements
 
