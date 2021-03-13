@@ -22,5 +22,13 @@ If you are looking for awesome_RL resources, you can click [here]()
 - [ ] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  [[arxiv]](https://arxiv.org/abs/1604.06057) [code]
 - [ ] Neural Episodic Control [[arxiv]](https://arxiv.org/pdf/1703.01988.pdf) [code]
 
+# Other
+
+
+
 # TODO
+
+- [ ] Read and implement all the papers related to DQN
+
+  
 
