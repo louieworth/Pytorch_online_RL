@@ -1,32 +1,30 @@
 import numpy as np
 import random
+"""
+define the replay buffer and corresponding algorithms like PER
 
 """
-define the replay buffer and corresponding algorithms 
-"""
+    # def sample(self, bath_size):
+    #     state, action, reward, next_state, done = zip(*random.sample(self.buffer, bath_size))
+    #     return np.concatenate(state), np.array(action), np.array(reward), np.concatenate(next_state), np.array(done)
+
 
 class ReplayBuffer:
-    def __init__(self, capacity):
-        self.memory_size = capacity
-        self.buffer = []
-        self.idx = 0
+    def __init__(self, memory_size):
+        self.storge = []
+        self.memory_size = memory_size
+        self.next_idx = 0
 
-    # add the sample
-    def add(self, state, action, reward, next_state, done):
-        data = (state, action, reward, next_state, done)
-        if self.idx >= len(self.buffer):
-            self.buffer.append(data)
+    # add the samples
+    def add(self, obs, action, reward, obs_, done):
+        data = (obs, action, reward, obs_, done)
+        if self.next_idx >= len(self.storge):
+            self.storge.append(data)
         else:
-            self.buffer[self.idx] = data
-        self.idx = (self.idx + 1) % self.memory_size
+            self.storge[self.next_idx] = data
+        # get the next idx
+        self.next_idx = (self.next_idx + 1) % self.memory_size
 
-    def sample(self, batch_size):
-        state, action, reward, next_state, done = zip(*random.sample(self.buffer, batch_size))
-        return np.concatenate(state), action, reward, np.concatenate(next_state), done
-
-    def size(self):
-        return len(self.buffer)
-"""
     # encode samples
     def _encode_sample(self, idx):
         obses, actions, rewards, obses_, dones = [], [], [], [], []
@@ -44,4 +42,3 @@ class ReplayBuffer:
     def sample(self, batch_size):
         idxes = [random.randint(0, len(self.storge) - 1) for _ in range(batch_size)]
         return self._encode_sample(idxes)
-"""

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="212e4453-0374-4697-b21a-1cd32d29803b" name="tbsi_lab">
+        <fileTransfer rootFolder="/home/jiangli20/" accessType="SFTP" host="117.50.23.56" port="6222" sshConfigId="6b13bdbe-bdf7-4391-9652-16c35ea9e8c9" sshConfig="jiangli20@117.50.23.56:6222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

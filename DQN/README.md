@@ -9,7 +9,6 @@ python train.py --env-name='<env name>' --cuda (if you have a GPU) --<other flag
 ```
 
 1. Play the demo - Please use the same algorithm flag as training:
-
 ```
 python demo.py --env-name='<env name>' --<algo flags>
 ```
