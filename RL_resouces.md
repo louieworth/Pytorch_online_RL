@@ -27,18 +27,18 @@ Thank you for all of the best sources on the earth.
 
    An implement of all RL algorithms. 
 
-4. https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+4.  [p-christ](https://github.com/p-christ)/[Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 
-   This repository contains PyTorch implementations of deep reinforcement learning algorithms and environments.
+4. This repository contains PyTorch implementations of deep reinforcement learning algorithms and environments.
 
 5.  https://github.com/zhangchuheng123/Reinforcement-Implementation
     This project aims to reproduce the results of several model-free RL algorithms in continuous action domain (mujuco environment).
 
-5.  [莫烦python](https://space.bilibili.com/243821484/channel/detail?cid=155688): demo 
+6.  [莫烦python](https://space.bilibili.com/243821484/channel/detail?cid=155688): demo  :star:
 
-6. https://github.com/DLR-RM/stable-baselines3   baseline
+7. https://github.com/DLR-RM/stable-baselines3   baseline
 
-7. https://stable-baselines3.readthedocs.io/en/master/. Baseline
+8. https://stable-baselines3.readthedocs.io/en/master/. Baseline
 
 
 # FrameWork
