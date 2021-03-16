@@ -1,1 +1,0 @@
-This folder includes basic algorithms of RL. 
