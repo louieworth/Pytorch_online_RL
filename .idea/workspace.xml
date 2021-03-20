@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d2dc6d-c7fb-4878-a301-ffde5454ef08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DQN/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQN/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQN/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQN/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQN/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQN/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/dqn_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/dqn_agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rl_utils/experience_replay/experience_replay.py" beforeDir="false" afterPath="$PROJECT_DIR$/rl_utils/experience_replay/experience_replay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +102,9 @@
       <workItem from="1615812968794" duration="11496000" />
       <workItem from="1615856975966" duration="23700000" />
       <workItem from="1615890487008" duration="1986000" />
+      <workItem from="1615895655956" duration="621000" />
+      <workItem from="1615899472913" duration="1813000" />
+      <workItem from="1615971264046" duration="812000" />
     </task>
     <servers />
   </component>
