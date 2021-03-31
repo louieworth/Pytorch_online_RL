@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d2dc6d-c7fb-4878-a301-ffde5454ef08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Policy/AC/AC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Policy/AC/main_AC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Policy/REINFORCE.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="main_AC" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Pytorch_RL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,12 +73,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Policy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DQN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Policy/AC/main_AC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DQN/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +113,7 @@
       <workItem from="1616930594212" duration="3114000" />
       <workItem from="1616933822795" duration="1046000" />
       <workItem from="1616987882933" duration="2273000" />
-      <workItem from="1617085199753" duration="9184000" />
+      <workItem from="1617085199753" duration="13106000" />
     </task>
     <servers />
   </component>
