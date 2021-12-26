@@ -36,10 +36,6 @@ Thank you for all of the best sources on the earth.
 
 6.  [莫烦python](https://space.bilibili.com/243821484/channel/detail?cid=155688): demo  :star:
 
-7. https://github.com/DLR-RM/stable-baselines3   baseline
-
-8. https://stable-baselines3.readthedocs.io/en/master/. Baseline
-
 
 # FrameWork
 

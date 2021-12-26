@@ -12,7 +12,7 @@ import copy
 
 # define the dqn agent
 class dqn_agent:
-    def __init__(self, env, args): # TODO, how to import args from arguments
+    def __init__(self, env, args):
         # define hyper parameters
         self.env = env
         self.args = args

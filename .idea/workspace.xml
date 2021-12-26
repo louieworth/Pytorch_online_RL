@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d2dc6d-c7fb-4878-a301-ffde5454ef08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/A2C/agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2C/arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2C/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2C/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Char03 Actor_Critic/AC_cartPole-v0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/dqn_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/dqn_agent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +66,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Policy/AC" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Policy/AC" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,6 +120,15 @@
       <workItem from="1616933822795" duration="1046000" />
       <workItem from="1616987882933" duration="2273000" />
       <workItem from="1617085199753" duration="13106000" />
+      <workItem from="1617256959887" duration="3726000" />
+      <workItem from="1617264801298" duration="1601000" />
+      <workItem from="1617411445975" duration="35000" />
+      <workItem from="1617411631415" duration="1031000" />
+      <workItem from="1617516283419" duration="1000" />
+      <workItem from="1617547900273" duration="542000" />
+      <workItem from="1617627350271" duration="2000" />
+      <workItem from="1617718882516" duration="9497000" />
+      <workItem from="1617847422653" duration="3323000" />
     </task>
     <servers />
   </component>
